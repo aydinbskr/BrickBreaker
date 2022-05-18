@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 11e947f415bf741c2ab39b6809202932
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - balls: {instanceID: 0}
+  - laser: {instanceID: 0}
+  - slow: {instanceID: 0}
+  - fast: {instanceID: 0}
+  - expand: {instanceID: 0}
+  - shrink: {instanceID: 0}
+  - death: {fileID: 100000, guid: a22bdd5ec5f94434d8f22c463f991f13, type: 3}
+  - bigball: {instanceID: 0}
+  - gscore: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
